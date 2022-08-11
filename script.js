@@ -17,4 +17,3 @@
      theme.href = "main.css";
    }
  });
-//  my theme
